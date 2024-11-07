@@ -6,7 +6,7 @@ This Privacy Notice for DimTurov ("**we**," "**us**," or "**our**"), describes h
 
 * Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at dimturov@gmail.com.
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at DimTurov@gmail.com.
 
 ## SUMMARY OF KEY POINTS
 
