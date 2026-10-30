@@ -1,5 +1,7 @@
 # Privacy policy
 
+_Last updated: 30 October 2026_
+
 This Privacy Notice for DimTurov ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
 * Download and use our mobile application or any other application of ours that links to this Privacy Notice
@@ -14,13 +16,15 @@ This Privacy Notice for DimTurov ("**we**," "**us**," or "**our**"), describes h
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
 
+**What information is collected automatically?** Our free apps show ads from Google AdMob, and our apps use Google Analytics for Firebase. These Google services automatically collect device and advertising identifiers, your IP address (which can be used to estimate your approximate location), your interactions with the app and its ads, and diagnostic information. We see only aggregated reports, never data about an individual user. Learn more about [information collected automatically](#autoinfo).
+
 **Do we process any sensitive personal information?** Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
 
 **Do we collect any information from third parties?** We do not collect any information from third parties.
 
 **How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#infouse).
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#whoshare).
+**In what situations and with which parties do we share personal information?** The information collected automatically is transmitted to Google, which provides the ads (AdMob) and the usage statistics (Google Analytics for Firebase) in our apps. We may also share information in other specific situations. Learn more about [when and with whom we share your personal information](#whoshare).
 
 **How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#infosafe).
 
@@ -62,12 +66,37 @@ We collect personal information that you voluntarily provide to us when you expr
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
+<a id="autoinfo"></a>
+**Information collected automatically.**
+
+**_In Short:_** _Google AdMob and Google Analytics for Firebase, which are built into our apps, automatically collect identifiers, your IP address, usage and diagnostic information._
+
+Our free apps show ads provided by Google AdMob through the Google Mobile Ads SDK, and our apps use Google Analytics for Firebase to measure how they are used. Both run inside the app and automatically collect and send to Google:
+
+* **Device and advertising identifiers** — the Android advertising ID, the app set ID and the app instance ID.
+
+* **IP address** — it may be used to estimate the general (approximate) location of the device. This is not precise location: the advertising and analytics services do not use GPS.
+
+* **App interactions** — app launches, the screens and features used, ad views and ad taps.
+
+* **Diagnostic information** — device model, operating system and app version, and information about the performance of the app and of the SDK.
+
+This information is encrypted in transit and is used to show and measure ads, to understand and improve how our apps are used, and to prevent fraud. We receive only aggregated reports from AdMob and Google Analytics (for example, how many ads were shown or how many people opened a screen), never information that identifies an individual user.
+
+Our apps never pass to these services the content you create or keep in the app — for example, photos, videos or audio recordings that an app keeps on your device.
+
 <a id="infouse"></a>
 ### 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 **_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+
+* **To show advertising.** Ads from Google AdMob pay for our free apps. Where the law requires it, ads are personalised only with your consent; otherwise non-personalised ads are shown.
+
+* **To understand and improve our apps.** We use aggregated statistics from Google Analytics for Firebase to see which features are used and where the apps work poorly.
+
+* **For security and fraud prevention.** Google uses the information collected automatically to detect invalid ad traffic and fraud.
 
 * **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
@@ -80,7 +109,9 @@ _**If you are located in the EU or UK, this section applies to you.**_
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-* **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#request).
+* **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. Personalised advertising relies on the consent you give in Google's consent form, which our apps show when they first start in the EEA, the UK and Switzerland. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#request).
+
+* **Legitimate Interests.** We may process your information when it is reasonably necessary for our legitimate business interests: showing non-personalised ads that fund our free apps, measuring how our apps are used in aggregate, and preventing ad fraud.
 
 * **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 
@@ -121,6 +152,8 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 We may need to share your personal information in the following situations:
 
+* **Advertising and analytics providers.** The information described in "[Information collected automatically](#autoinfo)" is transmitted to Google (Google LLC, and Google Ireland Limited for users in the EEA and Switzerland), which provides Google AdMob and Google Analytics for Firebase in our apps. Google processes it under the [Google Privacy Policy](https://policies.google.com/privacy). How Google uses information from apps that use its services: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
+
 * **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 <a id="3pwebsites"></a>
@@ -133,19 +166,23 @@ The Services may link to third-party websites, online services, or mobile applic
 <a id="cookies"></a>
 ### 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-**_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
+**_In Short:_** _Our apps do not use browser cookies, but the Google services built into them use device identifiers for the same purposes: advertising and analytics._
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
+Our mobile apps do not set browser cookies. Instead, Google AdMob and Google Analytics for Firebase use device identifiers — the Android advertising ID, the app set ID and the app instance ID — to recognise the device, show and measure ads, count app usage and prevent fraud.
 
-We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites.
+**Google AdMob**
 
-To the extent these online tracking technologies are deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section "[DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)"
+Our free apps show ads served by Google AdMob. Where the law requires consent (such as in the EEA, the UK and Switzerland), our apps ask for your consent to personalised ads using Google's consent form when they first start, and let you change your choice later from within the app (for example, under "Privacy settings" in the app's settings). If you do not consent, you may still see non-personalised ads. More about how Google uses this information: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
 
-Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+**Google Analytics for Firebase**
 
-**Google Analytics**
+We use Google Analytics for Firebase to understand, in aggregate, how our apps are used: which screens are opened, which features are used, and where the apps work poorly. We see statistics, not individual users. For more information on the privacy practices of Google, please visit the [Google Privacy & Terms page](https://policies.google.com/privacy).
 
-We may share your information with Google Analytics to track and analyze the use of the Services. To opt out of being tracked by Google Analytics across the Services, visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). For more information on the privacy practices of Google, please visit the [Google Privacy & Terms page](https://policies.google.com/privacy).
+**Your choices on Android**
+
+You can reset or delete your advertising ID, or turn off ads personalisation, in your device settings (usually under Settings → Google → Ads, or Settings → Privacy → Ads, depending on the device). Without an internet connection, our apps show no ads and send no analytics.
+
+To the extent the use of these technologies is deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can also opt out by submitting a request as described below under section "[DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)"
 
 <a id="inforetain"></a>
 ### 7. HOW LONG DO WE KEEP YOUR INFORMATION?
@@ -155,6 +192,8 @@ We may share your information with Google Analytics to track and analyze the use
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+The information collected automatically by Google AdMob and Google Analytics for Firebase is stored by Google and retained according to Google's retention policies: [https://policies.google.com/technologies/retention](https://policies.google.com/technologies/retention).
 
 <a id="infosafe"></a>
 ### 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
@@ -176,11 +215,11 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, you may contact the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent to personalised ads from within the app (for example, under "Privacy settings" in the app's settings), or turn off ads personalisation in your device settings as described in "[DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#cookies)". You can also withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at DimTurovm@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at DimTurov@gmail.com.
 
 <a id="DNT"></a>
 ### 10. CONTROLS FOR DO-NOT-TRACK FEATURES
@@ -200,7 +239,7 @@ We have collected the following categories of personal information in the past t
 
 A. Identifiers
 
-Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name - NO
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name - YES (only online identifiers — the advertising ID, app set ID and app instance ID — and the IP address, collected automatically by Google AdMob and Google Analytics for Firebase; we do not collect names, postal addresses, phone numbers or account names)
 
 B. Personal information as defined in the California Customer Records statute
 
@@ -220,11 +259,11 @@ Fingerprints and voiceprints - NO
 
 F. Internet or other similar network activity
 
-Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements - NO
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements - YES (interactions with our apps and with the ads shown in them: app launches, screens and features used, ad views and taps)
 
 G. Geolocation data
 
-Device location - NO
+Device location - YES (approximate location only, estimated from the IP address; no precise or GPS location)
 
 H. Audio, electronic, sensory, or similar information
 
@@ -254,7 +293,7 @@ We may also collect other personal information outside of these categories throu
 
 We will use and retain the collected personal information as needed to provide the Services or for:
 
-* Category H - As long as the user has an account with us
+* Categories A, F and G - As long as Google retains them under its retention policies for AdMob and Google Analytics for Firebase (see "[HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)")
 
 **Sources of Personal Information**
 
@@ -270,7 +309,7 @@ We may disclose your personal information with our service providers pursuant to
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
-We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+In the preceding twelve (12) months we have disclosed the personal information in categories A, F and G to Google, for advertising (Google AdMob) and analytics (Google Analytics for Firebase). We do not sell personal information for money. Showing personalised ads may be considered "sharing" for cross-context behavioral advertising, or "targeted advertising", under some US state laws. You can opt out of it by turning off ads personalisation or deleting your advertising ID in your device settings, or by emailing us as described below.
 
 **Your Rights**
 
@@ -329,7 +368,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 _**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
-We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
+We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Last updated" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
 <a id="contact"></a>
 ### 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
@@ -340,3 +379,5 @@ If you have questions or comments about this notice, you may email us at DimTuro
 ### 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please email us at DimTurov@gmail.com.
+
+We do not hold the information collected automatically by Google AdMob and Google Analytics for Firebase in a form linked to you, so we cannot look it up by your name or email. You can reset or delete your advertising ID in your device settings, which disconnects the data collected so far from your device, and Google's own controls are described in the [Google Privacy Policy](https://policies.google.com/privacy).
