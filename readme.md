@@ -1,6 +1,6 @@
 # Privacy policy
 
-_Last updated: 30 October 2026_
+_Last updated: 8 November 2026_
 
 This Privacy Notice for DimTurov ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
@@ -84,6 +84,23 @@ Our free apps show ads provided by Google AdMob through the Google Mobile Ads SD
 This information is encrypted in transit and is used to show and measure ads, to understand and improve how our apps are used, and to prevent fraud. We receive only aggregated reports from AdMob and Google Analytics (for example, how many ads were shown or how many people opened a screen), never information that identifies an individual user.
 
 Our apps never pass to these services the content you create or keep in the app — for example, photos, videos or audio recordings that an app keeps on your device.
+
+<a id="devicepermissions"></a>
+**Camera, microphone and local network (Camera Viewer).**
+
+**_In Short:_** _Camera Viewer uses the camera and the microphone only to record and stream video between your own devices. Recordings and the live picture never leave your home network and are never sent to us or to anyone else._
+
+Camera Viewer (com.statlex.cameraviewer) turns a spare phone into a home camera. With your permission it uses:
+
+* **Camera and microphone** — to record video with sound and to show the live picture. Recording starts only when you start it in "Mode: Camera". It keeps going when the app is in the background or the screen is off, and while it runs Android shows a notification with a Stop button. Recordings are stored only in the memory of the phone that records them.
+
+* **Local network (Wi-Fi)** — the camera and the receiving phone find each other on your home Wi-Fi network and exchange the live picture, recordings and status (for example battery and temperature) directly between your devices. This traffic does not go through the internet or through any server of ours.
+
+* **Notifications and vibration** — to show that recording, downloading or background alerts are running, and to warn you when a camera stops answering.
+
+* **Storage** — to save recordings that you download from a camera into the Downloads folder or the memory card of the receiving phone.
+
+We do not collect, receive, store or share the recordings, the live picture or the sound. They stay on your devices, and you delete them by deleting the files or by uninstalling the app. The ad and analytics services described above never receive the video or the sound.
 
 <a id="infouse"></a>
 ### 2. HOW DO WE PROCESS YOUR INFORMATION?
